@@ -1,2 +1,5 @@
- var myVariable = 10;
-  document.write (myVariable%3)
+ let firstName  ='rav';
+  let lastName = 'Bora';
+ console.log(firstName + lastName);
+
+ //not reserved keyword
